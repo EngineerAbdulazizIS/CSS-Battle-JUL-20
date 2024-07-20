@@ -1,0 +1,19 @@
+<p>
+<style>
+*{
+  background:#F48B26;
+  +*{
+    background:#FEFF58;
+    margin:50 180;
+    color:FEFF58;
+    box-shadow:60px 0,120px 0,-60px 0,-120px 0
+  }
+}
+  p{
+    position:fixed;
+    padding:140;
+    border-radius:50%;
+    margin:-140-280;
+    box-shadow:320px 0#F48B26
+  }
+</style>
